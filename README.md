@@ -226,10 +226,9 @@ Application demo video available at: `demo.mp4` (to be created and uploaded)
 
 ## 👨‍💻 Developer
 
-**Name:** [Your Name]  
-**Student ID:** [Your Student ID]  
+**Name:** Dikri Ali 
+**Student ID:** 20230040064
 **Course:** Object-Oriented Programming (OOP)  
-**Instructor:** [Instructor Name]
 
 ---
 
