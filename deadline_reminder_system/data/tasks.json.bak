@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "task_id": "7139d92a-a419-47d5-837f-f9a26b25ba1d",
+      "title": "big data",
+      "description": "project uas",
+      "deadline_date": "2025-06-22",
+      "deadline_time": "23:45:00",
+      "priority": 1,
+      "category": "1",
+      "completed": false,
+      "created_at": "2025-06-22T20:32:26.534303",
+      "completed_at": null,
+      "task_type": "RegularTask"
+    }
+  ]
+}

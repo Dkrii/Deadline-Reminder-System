@@ -1,0 +1,22 @@
+# Deadline Reminder System - Requirements
+# Python 3.7+ required
+
+# No external dependencies needed for basic functionality
+# All required modules are part of Python standard library:
+# - json (for data persistence)
+# - datetime (for date/time handling)
+# - os (for file operations)
+# - sys (for system operations)
+# - uuid (for unique IDs)
+# - abc (for abstract base classes)
+# - typing (for type hints)
+
+# Optional: For future enhancements
+# tkinter (usually included with Python for GUI)
+# sqlite3 (usually included with Python for database)
+
+# Development dependencies (optional)
+# pytest>=6.0.0          # for testing
+# black>=21.0.0          # for code formatting
+# flake8>=3.8.0          # for code linting
+# mypy>=0.800            # for type checking
